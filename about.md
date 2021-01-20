@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+19 yaşındayım, genel olarak **javascript** ve **python** ile ilgileniyorum. Çocukluğumdan beri bir şeyler oluşturmayı çok seven birisiydim, yazılıma başlama hikayem kendi oyunumu yapma düşüncesiyle başlamış olsa da genel olarak websitesi ve masaüstü uygulama geliştiriyorum. Bir düşüncenin beni buralara getirebileceğini hiç düşünmezdim fakat yazılım geliştirmek hayatımda verdiğim en doğru kararlardan birisi 😜
 
-### More Information
+### İletişim
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[akancodes@gmail.com](mailto:akancodes@gmail.com)
