@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # JavaScript .map() Fonksiyonu
 Bugün sizlere JavaScript'in bence en güzel fonksiyonlarından biri olan .map() fonksiyonunu anlatacağım. 
