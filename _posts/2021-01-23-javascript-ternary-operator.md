@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Herkese selamlar, bugün JavaScript'in güzelliklerinden olan ternary operator'u inceleyeceğiz fakat ternary operator'u incelemeden önce farklı bir kaç örnek üzerinden ilerlemek istiyorum.
 
