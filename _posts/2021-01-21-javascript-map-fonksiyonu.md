@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-# JavaScript .map() Fonksiyonu
 Bugün sizlere JavaScript'in bence en güzel fonksiyonlarından biri olan .map() fonksiyonunu anlatacağım. 
 ### Ne işe yarıyor bu .map()?
 .map() fonksiyonu bizim dizilerimizi bir döngü içerisine soktuktan sonra, bu dizideki her eleman için istediğimiz işlemi yapmamızı sağlıyor. İstersek sadece sade bir şekilde dizilerimizi bir döngüye sokabiliriz ve üzerinde bir işlem yapmayız. Genellikle üzerinde belirli eklemeler yapılıyor. Biraz örnek vermem gerekirse:
