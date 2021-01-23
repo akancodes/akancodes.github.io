@@ -24,9 +24,11 @@ Burada `isOnline` değişkenimizin değeri `false` olduğu için else bloğundak
 En basit örnekle bile if-else bloğu 5-6 satırlık bir alan kaplıyor fakat burada ternary operator devreye giriyor. Ternary operator kısaca tek satır içerisinde koşul yazmamıza olanak sağlıyor. İsterseniz ternary operator'ün nasıl çalıştığını yukarıdaki örnek üzerinden vermeye çalışayım.
 
     let isOnline =  false
+    
 Tekrardan isOnline değişkenimizi tanımlıyoruz ve bu sefer if-else kullanmak yerine direkt olarak ternary operator'ü kullanıyoruz.
 
     console.log(isOnline  ?  'User Online'  :  'User Offline');
+    
 Evet! İşte her şey bu kadar basit, tek bir satır içerisinde koşumuzu yazdık ve yine sonuç olarak `'User Offline'` yazısını aldık.
 
 ---
